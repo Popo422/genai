@@ -1,0 +1,38 @@
+.Bender__eyes {
+    width: 400px;
+    height: 150px;
+    border: 3px solid black;
+    border-radius: 200px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Bender__socket {
+    width: 375px;
+    height: 125px;
+    border: 3px solid black;
+    border-radius: 200px;
+    background: black;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.Bender__eye {
+    height: 145px;
+    width: 145px;
+    background: #fefbb8;
+    border-radius: 100%;
+    margin: -10px 10px 0px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.Bender__pupil {
+    width: 20px;
+    height: 20px;
+    background: black;
+}
